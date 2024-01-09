@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnaOne88
-- 👀 I’m interested in automation with Python. I like to make my life easier and I hate repetitive tasks. But have no fear, Python is here!
+- 👀 I’m interested in Python. I like to automate tasks because why the hell not. Life is too short.
 - 🌱 I’m currently learning JavaScript and HTML, because I want to be able to make a website from scratch! Just for fun.
 - 💞️ I’m looking to collaborate on any hobby projects that automate tasks.
 - 📫 How to reach me: annaonesork@gmail.com
